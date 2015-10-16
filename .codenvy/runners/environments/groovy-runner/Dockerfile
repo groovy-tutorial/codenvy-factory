@@ -4,4 +4,4 @@ VOLUME ["/home/user/project"]
 ENV CODENVY_APP_BIND_DIR /home/user/project
 WORKDIR /home/user/project
 
-CMD sleep 4h
+CMD sleep 1h
